@@ -1,0 +1,25 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.profile{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.profile img{
+	width: 300px;
+	position: absolute;
+}
+
+.deskripsi{
+	padding: 20px;
+}
+
+.deskripsi p{
+	font-size: 20px;
+	text-align: justify;
+}
